@@ -1,0 +1,249 @@
+body {
+    background: #fec5e5;
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+}
+
+.logoluly{
+    margin: 15px;
+    width: 6%;
+    height: 300%;
+    position: relative;
+    left: 230px;
+   
+}
+.contenedor{
+    border: 3px solid black;
+    width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.contenedor{
+    
+}
+
+
+
+center li a {
+    color: antiquewhite;
+    width: 40%;
+    height: 60%;
+    max-height: 20%;
+}
+
+center a {
+    color: black;
+    width: 40%;
+    height: 60%;
+    max-width: 20%;
+    max-width: 1000px;
+}
+
+ul {
+    width: 100%;
+    background: black;
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    max-width: 1000px;
+    border-radius: 20px;
+}
+
+ul center li {
+    display: inline-block;
+    
+}
+
+
+ul center li a {
+    padding: 0px 100px;
+    display: inline-block;
+   
+}
+
+ul center a:hover {
+    background:aliceblue;
+    color:black;
+    border-radius: 20px;
+    
+}
+
+
+.lulybazar {
+    background: #FF8000; 
+    width:500px;
+    height: 300px;
+    left: 190px;
+    border-radius:15px;
+    text-align: center;
+     box-sizing: border-box;
+    position: relative; 
+
+}
+
+.informacion {
+    background: #FF8000;
+    width: 50%;
+    height: 300px;
+    border-radius: 10px;
+    text-align: center;
+    box-sizing: border-box;
+    position: relative;
+    left: 190px;
+    
+}
+.Sisebar {
+    background: #FF8000;
+    width:300px ;
+    height: 500px;
+    border-radius: 10px;
+    border: 100px;
+    position: relative;
+    float: right;
+    top:-460px;
+    left:-390px;
+    max-width: 10200px;
+    text-align: center;
+    margin: -100px;
+}
+hr{
+    position: relative;
+    left: 22px;
+}
+
+.main{
+    width: 82%;
+    max-width: 1000px;
+    box-sizing: border-box;
+    
+}
+.logo1 {
+    float: right;
+    position: relative;
+    left: -310px;
+    top: 93px;
+
+}
+
+.Redessociales {
+    float: right;
+    position: relative;
+    left: -220px;
+    top: 0px;
+   
+}
+
+.Facebook {
+    float: right;
+    position: relative;
+    left: -30px;
+    top: 35px;
+}
+
+.instragram {
+    float: right;
+    position: relative;
+    left: 130px;
+    top: 70px;
+}
+
+.logo2 {
+    float: right;
+    position: relative;
+    left: -329px;
+    top: 127px;
+}
+
+.contactos{
+    margin: 15px;
+}
+
+@media screen and (max-width:800px){
+    .main{
+        width: 100%;
+        
+    }
+    .Sisebar{
+        width: 96%;
+        height: 90%;
+        position: relative;
+        top: 90px;
+        left: -23%;
+        
+        
+    }
+    aside{
+        width: 100%;
+    }
+    .informacion{
+        width: 96%;
+        height: 40%;
+        position: relative;
+        left: 10px;
+    }
+    .lulybazar{
+        height: 40%;
+        width: 96%;
+        position: relative;
+        left: 10px;
+        top: -6px;
+        
+    }
+    .logoluly{
+        width: 9%;
+        height: 180%;
+        position: relative;
+        left: 1%;
+        margin: 2%;
+    }
+    .Redessociales{
+        position: relative;
+        left:-10% ;
+        top: 40px;
+    }
+    .Facebook{
+        position: relative;
+        left: 27%;
+        top: 100px;
+    }
+    .instragram{
+        position: relative;
+        left: 61%;
+    }
+    .logo1{
+        position: relative;
+        left: -33%;
+        top: 156px
+    }
+    .logo2{
+        position: relative;
+        left: -37%;
+    }
+    
+    center li a{
+        width: 15px;
+        height: 60px;
+    }
+    ul center li a{
+        width: 30px;
+        height: 65px;
+        padding: 0px 90px;
+        margin: 0.6%;
+    }
+    
+    ul{
+        height: 130px;
+        width: 100%;
+        margin: 0.5%;
+    }
+    hr{
+        width: 390px;
+        position: relative;
+        top: 60px;
+        left: -2%;
+        
+    }
+    .contenedor{
+        width: 100%;
+        height: 100%;
+    }
